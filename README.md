@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, i am Manoj 👋
 
-<!--
-**MJBx-ux/MJBx-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a Computer Science student
+- 🌱 I’m currently learning React Native and other technologies 
+
+- 🤔 I’m looking for Internship
+- 💬 Ask me about anything which i know😁
+- 📫 How to reach me: [Email](monojb83@gmail.com) | [LinkedIn](https://www.linkedin.com/in/manoj-b-bb9510191/) 
+- 😄 Pronouns:He/His
+- ⚡ Fun fact:i never watch movies!
+
